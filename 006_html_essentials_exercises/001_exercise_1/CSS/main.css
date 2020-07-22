@@ -1,0 +1,11 @@
+/* colorblock */
+div{
+width: 730px;
+height: 100px;
+background-color: lavender;
+}
+
+/* border for pup */
+img{
+  border: 20px ridge powderblue;
+}
