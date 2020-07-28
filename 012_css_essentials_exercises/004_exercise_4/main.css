@@ -1,0 +1,10 @@
+div{
+  width: 400px;
+  height: 200px;
+  border: red dashed 40px;
+  margin: 80px auto;
+}
+
+.nogrow{
+  box-sizing: border-box;
+}

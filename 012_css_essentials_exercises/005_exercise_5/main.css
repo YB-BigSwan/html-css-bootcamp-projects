@@ -1,0 +1,12 @@
+div{
+  width: 200px;
+  height: 200px;
+  background-color: powderblue;
+  border-radius: 25%;
+  border: powderblue groove 20px;
+  background-image: url(https://static.truckersmp.com/images/vtc/logo/10588.1581843551.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px;
+  box-sizing: border-box;
+}
