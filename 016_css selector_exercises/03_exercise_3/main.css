@@ -1,0 +1,7 @@
+[target] {
+  border: solid purple 8px;
+  width: 100px;
+  height: 50px;
+  box-sizing: border-box;
+  display: block;
+}
