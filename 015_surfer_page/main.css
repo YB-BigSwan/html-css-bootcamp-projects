@@ -1,0 +1,36 @@
+html{
+  background-color: dodgerblue;
+}
+
+body{
+  width: 80%;
+  margin: 0 auto;
+  background-color: springgreen;
+  border: solid black 5px;
+
+}
+
+img{
+  border: ridge gold 10px;
+  width: 350px;
+  border-radius: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+p,h1,h2{
+  margin: 15px;
+}
+
+#primary{
+  color: blue;
+  font-size: 35px;
+  font: sans-serif;
+  margin-top: 20px;
+}
+#secondary{
+  color: indianred;
+  font-size: 35px;
+  font: sans-serif;
+  margin-top: 20px;
+}
