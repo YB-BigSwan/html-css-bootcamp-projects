@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  border: 1px solid black;
+  font-style: italic;
+}
+
+#emph {
+  color: blue;
+}
+
+.other {
+  color: green;
+}
+
+.emphasize {
+  color: yellow;
+}
+
+/* The ruleset with the highest specificity takes priority. In this case that ruleset is #emph. Use specificity calculator OR remember specificity order:
+
+- (1000)inline styles
+- (100)id's
+- (10)classes, attributes, and pseudo-classes
+- (1)elements and pseudo-elements */
+
+/* For rulesets with equal specificity, the ruleset that is last will take priority. */
