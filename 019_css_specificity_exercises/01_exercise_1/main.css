@@ -1,0 +1,13 @@
+p {
+  border: 1px solid black
+}
+
+/* This selector has a specificity of 10 so the ID selector will take priority and change the color to blue */
+.tangerine {
+  color: orange;
+}
+
+/* This selector has a specificity of 100 so the color will be blue */
+#lorem {
+  color: blue;
+}

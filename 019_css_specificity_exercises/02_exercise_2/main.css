@@ -1,0 +1,10 @@
+/* This selector has a specificity of 1 so the text color will be overwriten */
+p {
+  color: black;
+  border: groove orange 10px;
+}
+
+/* This selector has a specificity of 100 so it will overwrite the text color and change it to purple */
+#purple {
+  color: purple;
+}

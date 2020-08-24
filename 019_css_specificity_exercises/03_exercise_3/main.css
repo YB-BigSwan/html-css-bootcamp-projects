@@ -1,0 +1,9 @@
+/* This element selector has a speceificity of 1 so the text color will be overwriten */
+p {
+  color: black;
+}
+
+/* This class selector has a speceificity of 10 and will overwrite the element selector. The tet color will be orange */
+.tangerine {
+  color: orange;
+}

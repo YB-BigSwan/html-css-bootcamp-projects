@@ -1,0 +1,9 @@
+/* The attribute selector has a specificity of 10 so it will overwite the element attribute. The color will be blue */
+[target=_blank] {
+  color: blue
+}
+
+/* The element selector has a specificity of 1 so it will be overwriten by the attribute selector */
+a {
+  color: green;
+}

@@ -1,0 +1,9 @@
+/* The class selector has a specificity of 10 so it will be overwriten by the attribute selector because the attribute selector comes last. */
+.class {
+  color: orange;
+}
+
+/* The attribute selector has a specificity of 10 so it will overwite the element attribute because it comes last. The color will be blue */
+[target=_blank] {
+  color: blue
+}
