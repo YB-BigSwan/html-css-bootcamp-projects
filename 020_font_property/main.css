@@ -1,0 +1,12 @@
+/* longhand */
+body {
+    font-size: 12px;
+    line-height: 14px;
+    font-family: sans-serif;
+    color: blue;
+}
+/* shorthand */
+#alt{
+    font: 12px/14px sans-serif;
+    color: black;
+}
