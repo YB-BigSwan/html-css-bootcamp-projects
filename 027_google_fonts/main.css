@@ -1,0 +1,31 @@
+html{
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    color: whitesmoke;
+    background-color: darkblue;
+} 
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 4rem;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+p{
+    border-top: 3px solid black;
+}
+p::first-letter{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+p::first-line{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
