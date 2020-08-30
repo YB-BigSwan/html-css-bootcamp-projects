@@ -1,0 +1,19 @@
+body{
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+
+h1{
+    font-family: "Oswald";
+    font-weight: 600;
+}
+
+h2{
+    font-family: "Oswald";
+    font-weight: 400;
+}
+
+p{
+    font-family: "Oswald";
+    font-weight: 200;
+}
