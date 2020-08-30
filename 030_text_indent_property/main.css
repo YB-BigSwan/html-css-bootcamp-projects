@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+p{
+    margin: 20px;
+    text-indent: 1rem;
+    max-width: 550px;
+}
+
+::first-letter{
+    color: indianred;
+    font-size: 2.5rem;
+    font-family: cursive;
+}
+
+::first-line{
+    font-size: 2rem;
+}
