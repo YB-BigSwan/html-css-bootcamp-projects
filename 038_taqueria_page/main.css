@@ -1,0 +1,56 @@
+html {
+    background-color: rgb(255, 237, 213);
+    font-size: 1rem;
+}
+
+header {
+    background-color: maroon;
+    font-family: 'Lobster', cursive, sans-serif;
+    color: goldenrod;
+    font-size: 3rem;
+}
+
+nav{
+    background-color: maroon; 
+}
+
+li {
+    display: inline-block;
+    font-size: 2rem;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    color: goldenrod
+}
+
+h1 {
+   font-family: 'Lobster', cursive, sans-serif;
+   font-size: 2rem; 
+   color: maroon;
+}
+
+.frontpage {
+    float: left;
+    border-radius: 25px;
+    margin-right: 100px;
+    margin-left: 80px;
+    margin-bottom: 70px;
+}
+
+.main {
+    margin-right: 70px;
+    font-size: 1.3rem;
+}
+
+.start::first-letter {
+    font-family: 'Lobster', cursive, sans-serif;
+    font-size: 2rem;
+    color: maroon;
+}
