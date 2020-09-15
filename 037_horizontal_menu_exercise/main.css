@@ -1,0 +1,27 @@
+ul {
+    font-size: 2rem;
+    list-style-type: none;
+}
+
+li {
+    border: 2px solid rgb(92, 215, 252);
+    border-radius: 50px;
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    border: 2px outset whitesmoke;
+    border-radius: 50px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+li:hover {
+    background-color: rgb(92, 215, 252);
+}
+
+a:hover {
+    color: whitesmoke;
+}
