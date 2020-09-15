@@ -1,0 +1,22 @@
+div {
+    height: 70px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 36%;
+}
+
+.one {
+    background-color: peachpuff;
+}
+
+.two {
+    background-color: rgb(252, 175, 145);
+}
+
+.three {
+    background-color: salmon;
+}
+
+.four {
+    background-color: rgb(140, 155, 240);
+}
